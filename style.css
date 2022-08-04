@@ -3,3 +3,24 @@
     padding: 0;
     font-family: sans-serif;
 }
+
+main section h2 {
+ background-color: #333;
+ width: 100%;
+ padding: 2%;
+}
+
+main section img{
+ width: 40%;
+ margin: 3%;
+ display: block;
+ float: left;
+}
+
+main section article {
+ width: 45%;
+ display: block;
+ float: left;
+ margin-top: 3%;
+}
+
