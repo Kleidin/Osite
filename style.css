@@ -3,3 +3,13 @@
     padding: 0;
     font-family: sans-serif;
 }
+footer{
+    height: 20px;
+    width: 100%;
+    background-color: black;
+    
+}
+
+footer p{
+    color: white;
+}
