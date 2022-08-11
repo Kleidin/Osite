@@ -168,3 +168,19 @@ aside form input {
     border: 1px solid black;
     font-style: italic;
 }
+}
+
+.galeria {
+    background-color: #333;
+    width: 70%;
+}
+
+.galeria img .pt1{
+display: inline-block;
+    width: 20%;
+}
+.galeria img .pt2{
+    
+    display: inline-block;
+        width: 20%;
+    }
