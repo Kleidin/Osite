@@ -161,3 +161,10 @@ aside ul li a{
 aside ul li {
  padding: 2px;
 }
+
+aside form input {
+    width: 200px;
+    height: 20px;
+    border: 1px solid black;
+    font-style: italic;
+}
