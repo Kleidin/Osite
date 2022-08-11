@@ -168,7 +168,6 @@ aside form input {
     border: 1px solid black;
     font-style: italic;
 }
-}
 
 .galeria {
     background-color: #333;
@@ -184,3 +183,13 @@ display: inline-block;
     display: inline-block;
         width: 20%;
     }
+footer{
+    height: 20px;
+    width: 100%;
+    background-color: black;
+    
+}
+
+footer p{
+    color: white;
+}
